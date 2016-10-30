@@ -1,0 +1,6 @@
+c:\users\ostapchuk_v\documents\visual studio 2015\Projects\bootloader_Csharp\bootloader_Csharp\bin\Debug\bootloader_Csharp.exe.config
+c:\users\ostapchuk_v\documents\visual studio 2015\Projects\bootloader_Csharp\bootloader_Csharp\obj\Debug\bootloader_Csharp.csprojResolveAssemblyReference.cache
+c:\users\ostapchuk_v\documents\visual studio 2015\Projects\bootloader_Csharp\bootloader_Csharp\bin\Debug\bootloader_Csharp.exe
+c:\users\ostapchuk_v\documents\visual studio 2015\Projects\bootloader_Csharp\bootloader_Csharp\bin\Debug\bootloader_Csharp.pdb
+c:\users\ostapchuk_v\documents\visual studio 2015\Projects\bootloader_Csharp\bootloader_Csharp\obj\Debug\bootloader_Csharp.exe
+c:\users\ostapchuk_v\documents\visual studio 2015\Projects\bootloader_Csharp\bootloader_Csharp\obj\Debug\bootloader_Csharp.pdb
